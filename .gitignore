@@ -1,0 +1,5 @@
+*.docx
+.settings 
+target
+.classpath
+.project
